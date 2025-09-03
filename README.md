@@ -10,7 +10,7 @@ The system suggests movies similar to a user’s chosen movie, ranked by **corre
 - Filters out movies with very few ratings to ensure quality.  
 - Ranks recommended movies by similarity and overall rating.  
 
-## Tech Stack
+## Languages and Libraries
 - **Python 3**  
 - **Pandas, NumPy** → data handling  
 
@@ -37,7 +37,6 @@ The system suggests movies similar to a user’s chosen movie, ranked by **corre
 ## Future Improvements
 - Add **matrix factorization (SVD)** for better personalization.  
 - Support **user-based collaborative filtering**.  
-- Build a **Flask/Django web app** with search functionality.  
 - Extend to **content-based recommendations** (genres, tags).  
 
 ## Dataset
